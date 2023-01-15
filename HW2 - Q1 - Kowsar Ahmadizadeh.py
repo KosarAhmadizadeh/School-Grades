@@ -4,9 +4,8 @@
 # In[11]:
 
 
-# Kowsar Ahmadizadeh 
-# student number: 40070514
-# Homework 2 - Q1
+# Kosar Ahmadizadeh 
+
 
 s = str(input())
 sub = str(input())
